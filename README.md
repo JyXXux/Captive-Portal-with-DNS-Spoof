@@ -1,7 +1,7 @@
 # Captive-Portal-with-DNS-Spoof
 will able to extract password, email id
 
-# Functionality
+_fucntionality_
 a wifi SSID will appear (eg.SIT FREE WIFI)
 
 A login page will appear when someone connects to this 
@@ -12,7 +12,7 @@ The built-in LED will blink 3 times after the login process is completed by some
 
 Note: If you want to see the stored credetials go to "http://yourcurrentwebsite.com/creds" or "172.0.0.1/creds"
 
-# Installation (Arduino IDE)
+_Installation_ (Arduino IDE)
 
 Open your Arduino IDE and go to "File -> Preferences -> Boards Manager URLs" and paste the following link: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
@@ -28,7 +28,7 @@ Upload the code into your board.
 
 You are done!
 
-# disclaimer
+_disclaimer_
 
 This project is for testing and educational purposes.
 
@@ -39,5 +39,11 @@ Neither the ESP8266, nor its SDK was meant or built for such purposes.
 I don't take any responsibility for what you do with this program.
 
 Bugs can occur!
+
+_Credits_
+
+code was made and prepared by Jyotishka Bhaduri
+
+instagram ID: not._.jyotishko
 
 
